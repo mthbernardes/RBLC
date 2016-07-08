@@ -8,7 +8,7 @@ Ferramenta para analise de logs do Robocopy
 BRLC.exe C:\Users\matheus\Desktop\backup\logs\01-Segunda > saida.txt
 
 #Exemplo de saída:
-logs\01-Segunda 
+<pre>logs\01-Segunda 
 ...Administrativo.TXT 
 ...Data Inicio:04/07/16
 ...Erros:0
@@ -17,7 +17,7 @@ logs\01-Terça
 ...Administrativo.TXT 
 ...Data Inicio:05/07/16
 ...Erros:30
-...Data Fim:05/07/16
+...Data Fim:05/07/16</pre>
 
 #Erro Conhecido
 "O programa não pode ser iniciado porque está faltando msvrc100.dll no seu computador..."
