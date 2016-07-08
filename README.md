@@ -25,20 +25,19 @@ logs\01-Terça
 "O programa não pode ser iniciado porque está faltando msvrc100.dll no seu computador..."
 Para corrigir este erro instale o seguinte software
 
+Windows x86
+https://www.microsoft.com/en-us/download/details.aspx?id=5555
+
+Windows x64
+https://www.microsoft.com/en-us/download/details.aspx?id=14632
+</pre>
+
 #Compilar no Windows
 <pre>
 - Instale o python 2.7
 - Instale a lib pyinstaller através do cmd executando o seguinte comando
 pip install pyinstaller
 - Execute o seguinte comando através do cmd para compilar o source
-pyinstaller --onefile RBLC.py 
-</pre>
+pyinstaller --onefile source/RBLC.py 
 O arquivo compilado será salvo dentro da pasta dist.
-
-
-Windows x86
-https://www.microsoft.com/en-us/download/details.aspx?id=5555
-
-Windows x64
-https://www.microsoft.com/en-us/download/details.aspx?id=14632
 </pre>
