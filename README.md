@@ -7,7 +7,7 @@ Ferramenta para analise de logs do Robocopy
 #Exemplo de execução
 BRLC.exe C:\Users\matheus\Desktop\backup\logs\01-Segunda > saida.txt
 
-#Exemplo de saída:
+#Exemplo de saída
 <pre>logs\01-Segunda 
 ...Administrativo.TXT 
 ...Data Inicio:04/07/16
@@ -17,7 +17,8 @@ logs\01-Terça
 ...Administrativo.TXT 
 ...Data Inicio:05/07/16
 ...Erros:30
-...Data Fim:05/07/16</pre>
+...Data Fim:05/07/16
+</pre>
 
 #Erro Conhecido
 <pre>
