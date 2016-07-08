@@ -20,9 +20,11 @@ logs\01-Terça
 ...Data Fim:05/07/16</pre>
 
 #Erro Conhecido
+<pre>
 "O programa não pode ser iniciado porque está faltando msvrc100.dll no seu computador..."
 Para corrigir este erro instale o seguinte software
 Windows x86
 https://www.microsoft.com/en-us/download/details.a...
 Windows x64
 https://www.microsoft.com/en-us/download/details.aspx?id=14632
+</pre>
